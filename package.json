@@ -1,0 +1,25 @@
+{
+  "name": "duckjs",
+  "version": "1.0.0",
+  "description": "A Complier to Web Component for using FPR, TypeScript, JSX code.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/konglx90/duckjs.git"
+  },
+  "keywords": [
+    "Web",
+    "Component",
+    "Typescript",
+    "Functional"
+  ],
+  "author": "konglx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/konglx90/duckjs/issues"
+  },
+  "homepage": "https://github.com/konglx90/duckjs#readme"
+}
